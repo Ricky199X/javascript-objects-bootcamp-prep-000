@@ -3,6 +3,6 @@ var playlist = {
  'Kendrick Lamar': 'Alright'
 };
 
-function updatePlaylist(playlist, artistName, title) {
+function updatePlaylist(playlist, artistName, songTitle) {
   
 }
