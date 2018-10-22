@@ -7,3 +7,5 @@ var meals = {
   lunch: 'burrito',
   dinnr: 'steak'
 }
+
+meals.snack = 'yogurt'
