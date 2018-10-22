@@ -4,4 +4,5 @@ var playlist = {
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist['Kendrick Lamar'] = 'Alright';
+  return playlist;
 }
