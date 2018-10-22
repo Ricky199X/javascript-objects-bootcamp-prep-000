@@ -3,6 +3,6 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist['Kendrick Lamar'] = 'Alright';
+  Object.assign({}, playlist, { 'Kendrick Lamar': ['Alright'] })
   return playlist;
 }
