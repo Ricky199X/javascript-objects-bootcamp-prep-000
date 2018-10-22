@@ -11,3 +11,4 @@ var meals = {
 meals.snack = 'yogurt';
 
 meals['second breakfast'] = 'bagel'
+
