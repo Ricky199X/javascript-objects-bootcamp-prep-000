@@ -8,4 +8,4 @@ var meals = {
   dinnr: 'steak'
 }
 
-meals.snack = 'yogurt'
+meals.snack = 'yogurt';
