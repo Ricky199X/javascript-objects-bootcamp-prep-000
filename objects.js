@@ -3,5 +3,5 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist['Kendrick Lamar'] = 'Alright';
+  playlist['Kendrick Lamar'], ['Alright'];
 }
