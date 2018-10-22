@@ -1,14 +1,4 @@
-var meals = {
-  breakfast: 'oatmeal'
+var playlist = {
+  
 };
-
-var meals = {
-  breakfast: 'oatmeal',
-  lunch: 'burrito',
-  dinnr: 'steak'
-}
-
-meals.snack = 'yogurt';
-
-meals['second breakfast'] = 'bagel'
 
